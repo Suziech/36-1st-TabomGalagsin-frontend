@@ -68,7 +68,7 @@
 
 [API Documentation](https://documenter.getpostman.com/view/22449644/VUquKF7D)
 
-회고 (KPT)
+## 회고 (KPT)
 
 Keep : 팀의 분위기가 좋아서 재미있게 프로젝트를 진행 했다. 다음 프로젝트를 진행 할 때도 좋은 분위기를 유지할 수 있도록 노력해야겠다!
 
@@ -76,5 +76,5 @@ Problem : 많은 사람들이 개발을 할 땐 소통이 정말 중요하다고
 
 Try : 프로젝트는 2번의 sprint로 나뉘어져 있었고 각 sprint마다 정해진 ticket이 있었는데 아무래도 처음해보는 프로젝트라 어려운 점이 있었고 이 사항을 빨리 팀원들에게 공유하여 기간 내에 맡은 역할을 완성할 수 있게 하였다. 
 
-
+블로그에 작성한 회고 글
 https://suzie.hashnode.dev/1st-team-project-retrospective-tabom-galagsin
