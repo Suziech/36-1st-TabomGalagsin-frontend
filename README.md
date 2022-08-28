@@ -77,3 +77,4 @@ Problem : 많은 사람들이 개발을 할 땐 소통이 정말 중요하다고
 Try : 프로젝트는 2번의 sprint로 나뉘어져 있었고 각 sprint마다 정해진 ticket이 있었는데 아무래도 처음해보는 프로젝트라 어려운 점이 있었고 이 사항을 빨리 팀원들에게 공유하여 기간 내에 맡은 역할을 완성할 수 있게 하였다. 
 
 
+https://suzie.hashnode.dev/1st-team-project-retrospective-tabom-galagsin
