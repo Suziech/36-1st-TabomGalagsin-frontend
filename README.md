@@ -68,7 +68,7 @@
 
 [API Documentation](https://documenter.getpostman.com/view/22449644/VUquKF7D)
 
-
+회고 (KPT)
 
 Keep : 팀의 분위기가 좋아서 재미있게 프로젝트를 진행 했다. 다음 프로젝트를 진행 할 때도 좋은 분위기를 유지할 수 있도록 노력해야겠다!
 
