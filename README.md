@@ -1,48 +1,48 @@
-# 따봉 가락신 🏖
+# Tabom-Galagsin 🏖
 
-## 프로젝트 시연 영상 및 이미지
+## Project demonstration video
 [![Video Label](http://img.youtube.com/vi/kaVLMD1Mfi4/0.jpg)](https://youtu.be/kaVLMD1Mfi4)
 
-👉 화면을 클릭하면 영상으로 이동합니다.
+👉 Click to see the demonstration video
 
 <br />
 
 
 ![따봉 가락신](https://user-images.githubusercontent.com/105341553/186824307-3933622b-ec51-4228-a71c-33245c54e5b0.png)
 
-클론 사이트 : 하바이아나스 https://havaianas.com.br/
+Reference website : 하바이아나스 https://havaianas.com.br/
 
-## 팀원 소개 (가나다 순)
+## Teammates 🧑‍🤝‍🧑👫
 
 - FE
 
-  > 박승민
+  > Seungmin Park
   >
-  > > 메인 페이지, 장바구니
+  > > Main Page, Shopping Cart
 
-  > 송경용
+  > Kyungyoung Song
   >
-  > > 로그인/회원가임
+  > > SignIn / SignUp
 
-  > 임채동
+  > Chaedong Im
   >
-  > > 메인 페이지, 상품 목록 페이지
+  > > Main page, Product List Page
 
-  > 최슬기
+  > Seulki Choi
   >
-  > > NavBar, 상품 상세 페이지
+  > > NavBar, Product Details Page
 
 - BE
 
-  > 길성민
+  > Seongmin Gil
   >
-  > > 제품 상세 API, 장바구니 API, 카테고리 API, 색상별 제품 조회 API
+  > > Product details API, shopping cart API, category API, product inquiry API by color
 
-  > 문정진
+  > Jungjin Moon
   >
-  > > 로그인/회원가입 API, 메인 페이지 API, 필터링, 추천 알고리즘 API, 구매 API
+  > > Login/Membership API, Main Page API, Filtering, Recommendation Algorithm API, Purchase API
 
-## 기술 스택
+## Teck-stack
 
 - FE
 
